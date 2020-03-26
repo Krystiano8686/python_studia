@@ -14,7 +14,7 @@ print(mnozenie)
 odejmowanie = (c-a)
 print(odejmowanie)
 
-potega = pow(a, b)
+potega = pow(c, b)
 print(potega)
 
 dzielenie_calkowite = c // a
