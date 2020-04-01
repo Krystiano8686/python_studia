@@ -1,3 +1,5 @@
-# zad12
+# Zadanie 12
+
 tekst = ("Ala ma kota bo sierotka Marysia")
-print(tekst.split())
+a = tekst.split()
+print(a)
