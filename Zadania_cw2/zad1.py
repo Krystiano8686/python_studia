@@ -1,1 +1,1 @@
-input(cokolwiek)
+print("lol")
