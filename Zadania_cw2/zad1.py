@@ -1,1 +1,1 @@
-cokolwiek
+input(cokolwiek)
