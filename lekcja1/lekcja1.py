@@ -36,6 +36,7 @@ print(f"{0.3:.32f}")  # od wersji 3.6
 print("Ala" + " ma kota")
 print("Ala" + " ma " + str(5) + " kotów")
 print("Ala ma {1}{0} kotów".format(5, 4))
+
 # f-string
 ilosc_kotow = 5
 print(f"Ala ma {ilosc_kotow} kotów")
