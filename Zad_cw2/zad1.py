@@ -1,4 +1,5 @@
 # ZAD1
 
-a = input("Wpisz dowolne zdanie\n")
-print(a.count(' '))
+zdanie = input("Wpisz dowolne zdanie\n")
+a = zdanie.count(' ')
+print(f"Ilosc spacji wynosi = {a}")
